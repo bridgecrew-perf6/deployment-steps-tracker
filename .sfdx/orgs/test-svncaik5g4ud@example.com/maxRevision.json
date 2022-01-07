@@ -1,0 +1,593 @@
+{
+  "serverMaxRevisionCounter": 683,
+  "sourceMembers": {
+    "ListView__Manual_Deployment_Step__c.All": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Manual_Deployment_Step__c.Recent": {
+      "serverRevisionCounter": 179,
+      "lastRetrievedFromServer": 179,
+      "memberType": "ListView",
+      "isNameObsolete": true
+    },
+    "ListView__Manual_Deployment_Step__c.Open": {
+      "serverRevisionCounter": 188,
+      "lastRetrievedFromServer": 188,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Step__c.Author__c": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.author__c": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Author_Email__c": {
+      "serverRevisionCounter": 548,
+      "lastRetrievedFromServer": 548,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Description__c": {
+      "serverRevisionCounter": 553,
+      "lastRetrievedFromServer": 553,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.type__c": {
+      "serverRevisionCounter": 558,
+      "lastRetrievedFromServer": 558,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Title__c": {
+      "serverRevisionCounter": 562,
+      "lastRetrievedFromServer": 562,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Reset_after_Sandbox_Refresh__c": {
+      "serverRevisionCounter": 567,
+      "lastRetrievedFromServer": 567,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Reset_on_Install_of_Package__c": {
+      "serverRevisionCounter": 572,
+      "lastRetrievedFromServer": 572,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.content__c": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Content__c": {
+      "serverRevisionCounter": 577,
+      "lastRetrievedFromServer": 577,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Content_Type__c": {
+      "serverRevisionCounter": 582,
+      "lastRetrievedFromServer": 582,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Release__c": {
+      "serverRevisionCounter": 587,
+      "lastRetrievedFromServer": 587,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 461,
+      "lastRetrievedFromServer": 461,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 219,
+      "lastRetrievedFromServer": 219,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Executed_by__c": {
+      "serverRevisionCounter": 466,
+      "lastRetrievedFromServer": 466,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Executed_by__c": {
+      "serverRevisionCounter": 224,
+      "lastRetrievedFromServer": 224,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Release__c": {
+      "serverRevisionCounter": 230,
+      "lastRetrievedFromServer": 230,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Release__c": {
+      "serverRevisionCounter": 472,
+      "lastRetrievedFromServer": 472,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Status__c": {
+      "serverRevisionCounter": 477,
+      "lastRetrievedFromServer": 477,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Status__c": {
+      "serverRevisionCounter": 235,
+      "lastRetrievedFromServer": 235,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Execution_Comments__c": {
+      "serverRevisionCounter": 481,
+      "lastRetrievedFromServer": 481,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Execution_Comments__c": {
+      "serverRevisionCounter": 239,
+      "lastRetrievedFromServer": 239,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Reason_for_Creation__c": {
+      "serverRevisionCounter": 486,
+      "lastRetrievedFromServer": 486,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Reason_for_Creation__c": {
+      "serverRevisionCounter": 244,
+      "lastRetrievedFromServer": 244,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step_Execution__c.Executed_at__c": {
+      "serverRevisionCounter": 249,
+      "lastRetrievedFromServer": 249,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Task__c.Executed_at__c": {
+      "serverRevisionCounter": 491,
+      "lastRetrievedFromServer": 491,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Open_Executions__c": {
+      "serverRevisionCounter": 592,
+      "lastRetrievedFromServer": 592,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Execution_required__c": {
+      "serverRevisionCounter": 597,
+      "lastRetrievedFromServer": 597,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.Last_Execution_at__c": {
+      "serverRevisionCounter": 602,
+      "lastRetrievedFromServer": 602,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 135,
+      "lastRetrievedFromServer": 135,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Manual_Deployment_Step__c-Manual Deployment Step-Layout": {
+      "serverRevisionCounter": 609,
+      "lastRetrievedFromServer": 609,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "Layout__Manual_Deployment_Task__c-Manual Deployment Step Log-Layout": {
+      "serverRevisionCounter": 493,
+      "lastRetrievedFromServer": 493,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "Layout__Manual_Deployment_Step_Execution__c-Manual Deployment Step Log-Layout": {
+      "serverRevisionCounter": 251,
+      "lastRetrievedFromServer": 251,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "CustomObject__Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 541,
+      "lastRetrievedFromServer": 541,
+      "memberType": "CustomObject",
+      "isNameObsolete": true
+    },
+    "CustomObjectTranslation__Manual_Deployment_Task__c-de": {
+      "serverRevisionCounter": 459,
+      "lastRetrievedFromServer": 459,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": true
+    },
+    "CustomObject__Manual_Deployment_Task__c": {
+      "serverRevisionCounter": 455,
+      "lastRetrievedFromServer": 455,
+      "memberType": "CustomObject",
+      "isNameObsolete": true
+    },
+    "CustomObject__Manual_Deployment_Step_Execution__c": {
+      "serverRevisionCounter": 214,
+      "lastRetrievedFromServer": 214,
+      "memberType": "CustomObject",
+      "isNameObsolete": true
+    },
+    "CustomTab__Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 543,
+      "lastRetrievedFromServer": 543,
+      "memberType": "CustomTab",
+      "isNameObsolete": true
+    },
+    "CustomTab__Manual_Deployment_Steps": {
+      "serverRevisionCounter": 163,
+      "lastRetrievedFromServer": 163,
+      "memberType": "CustomTab",
+      "isNameObsolete": true
+    },
+    "CustomTab__Manage_Manual_Deployment_Steps": {
+      "serverRevisionCounter": 210,
+      "lastRetrievedFromServer": 210,
+      "memberType": "CustomTab",
+      "isNameObsolete": true
+    },
+    "CustomTab__Manual_Deployment_Steps1": {
+      "serverRevisionCounter": 155,
+      "lastRetrievedFromServer": 155,
+      "memberType": "CustomTab",
+      "isNameObsolete": true
+    },
+    "ValidationRule__Manual_Deployment_Task__c.Cannot_Reopen_If_Closed": {
+      "serverRevisionCounter": 496,
+      "lastRetrievedFromServer": 496,
+      "memberType": "ValidationRule",
+      "isNameObsolete": true
+    },
+    "QuickAction__Manual_Deployment_Step__c.New_Execution_Task": {
+      "serverRevisionCounter": 316,
+      "lastRetrievedFromServer": 316,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "QuickAction__Manual_Deployment_Step__c.New_Execution": {
+      "serverRevisionCounter": 315,
+      "lastRetrievedFromServer": 315,
+      "memberType": "QuickAction",
+      "isNameObsolete": true
+    },
+    "QuickAction__Manual_Deployment_Task__c.Execute": {
+      "serverRevisionCounter": 367,
+      "lastRetrievedFromServer": 367,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Manual_Deployment_Step_Datensatzseite": {
+      "serverRevisionCounter": 430,
+      "lastRetrievedFromServer": 430,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Manual_Deployment_Steps": {
+      "serverRevisionCounter": 211,
+      "lastRetrievedFromServer": 211,
+      "memberType": "FlexiPage",
+      "isNameObsolete": true
+    },
+    "PermissionSet__Manage_Manual_Deployment_Steps": {
+      "serverRevisionCounter": 611,
+      "lastRetrievedFromServer": 611,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "Flow__Manual_Step_Deployment_Task_Automation": {
+      "serverRevisionCounter": 649,
+      "lastRetrievedFromServer": 649,
+      "memberType": "Flow",
+      "isNameObsolete": true
+    },
+    "CustomField__Manual_Deployment_Step__c.IsDeprecated__c": {
+      "serverRevisionCounter": 607,
+      "lastRetrievedFromServer": 607,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "Flow__Manual_Step_Deployment_On_New_Step": {
+      "serverRevisionCounter": 668,
+      "lastRetrievedFromServer": 668,
+      "memberType": "Flow",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Step__c.Author_Email__c": {
+      "serverRevisionCounter": 549,
+      "lastRetrievedFromServer": 549,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Description__c": {
+      "serverRevisionCounter": 554,
+      "lastRetrievedFromServer": 554,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.type__c": {
+      "serverRevisionCounter": 559,
+      "lastRetrievedFromServer": 559,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Title__c": {
+      "serverRevisionCounter": 563,
+      "lastRetrievedFromServer": 563,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Reset_after_Sandbox_Refresh__c": {
+      "serverRevisionCounter": 568,
+      "lastRetrievedFromServer": 568,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Reset_on_Install_of_Package__c": {
+      "serverRevisionCounter": 573,
+      "lastRetrievedFromServer": 573,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Content__c": {
+      "serverRevisionCounter": 578,
+      "lastRetrievedFromServer": 578,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Content_Type__c": {
+      "serverRevisionCounter": 583,
+      "lastRetrievedFromServer": 583,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Release__c": {
+      "serverRevisionCounter": 653,
+      "lastRetrievedFromServer": 653,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 504,
+      "lastRetrievedFromServer": 504,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Manual_Deployment_Step__c": {
+      "serverRevisionCounter": 505,
+      "lastRetrievedFromServer": 505,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Executed_by__c": {
+      "serverRevisionCounter": 509,
+      "lastRetrievedFromServer": 509,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Executed_by__c": {
+      "serverRevisionCounter": 510,
+      "lastRetrievedFromServer": 510,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Release__c": {
+      "serverRevisionCounter": 515,
+      "lastRetrievedFromServer": 515,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Release__c": {
+      "serverRevisionCounter": 516,
+      "lastRetrievedFromServer": 516,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Status__c": {
+      "serverRevisionCounter": 520,
+      "lastRetrievedFromServer": 520,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Status__c": {
+      "serverRevisionCounter": 521,
+      "lastRetrievedFromServer": 521,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Execution_Comments__c": {
+      "serverRevisionCounter": 524,
+      "lastRetrievedFromServer": 524,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Execution_Comments__c": {
+      "serverRevisionCounter": 525,
+      "lastRetrievedFromServer": 525,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Reason_for_Creation__c": {
+      "serverRevisionCounter": 529,
+      "lastRetrievedFromServer": 529,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Reason_for_Creation__c": {
+      "serverRevisionCounter": 530,
+      "lastRetrievedFromServer": 530,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Manual_Deployment_Execution__c.Executed_at__c": {
+      "serverRevisionCounter": 534,
+      "lastRetrievedFromServer": 534,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Deployment_Execution__c.Executed_at__c": {
+      "serverRevisionCounter": 535,
+      "lastRetrievedFromServer": 535,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Open_Executions__c": {
+      "serverRevisionCounter": 631,
+      "lastRetrievedFromServer": 631,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Execution_required__c": {
+      "serverRevisionCounter": 598,
+      "lastRetrievedFromServer": 598,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.Last_Execution_at__c": {
+      "serverRevisionCounter": 603,
+      "lastRetrievedFromServer": 603,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Deployment_Step__c.IsDeprecated__c": {
+      "serverRevisionCounter": 608,
+      "lastRetrievedFromServer": 608,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Layout__Deployment_Step__c-Manual Deployment Step-Layout": {
+      "serverRevisionCounter": 546,
+      "lastRetrievedFromServer": 546,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Deployment_Execution__c-Deployment Step-Layout": {
+      "serverRevisionCounter": 616,
+      "lastRetrievedFromServer": 616,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Manual_Deployment_Execution__c-Manual Deployment Step Log-Layout": {
+      "serverRevisionCounter": 536,
+      "lastRetrievedFromServer": 536,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "Layout__Deployment_Execution__c-Manual Deployment Step Log-Layout": {
+      "serverRevisionCounter": 612,
+      "lastRetrievedFromServer": 612,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "CustomObjectTranslation__Deployment_Step__c-de": {
+      "serverRevisionCounter": 547,
+      "lastRetrievedFromServer": 547,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObject__Deployment_Step__c": {
+      "serverRevisionCounter": 542,
+      "lastRetrievedFromServer": 542,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Manual_Deployment_Execution__c-de": {
+      "serverRevisionCounter": 502,
+      "lastRetrievedFromServer": 502,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": true
+    },
+    "CustomObjectTranslation__Deployment_Execution__c-de": {
+      "serverRevisionCounter": 503,
+      "lastRetrievedFromServer": 503,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObject__Manual_Deployment_Execution__c": {
+      "serverRevisionCounter": 498,
+      "lastRetrievedFromServer": 498,
+      "memberType": "CustomObject",
+      "isNameObsolete": true
+    },
+    "CustomObject__Deployment_Execution__c": {
+      "serverRevisionCounter": 629,
+      "lastRetrievedFromServer": 629,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomTab__Deployment_Step__c": {
+      "serverRevisionCounter": 544,
+      "lastRetrievedFromServer": 544,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Manual_Deployment_Execution__c.Cannot_Reopen_If_Closed": {
+      "serverRevisionCounter": 539,
+      "lastRetrievedFromServer": 539,
+      "memberType": "ValidationRule",
+      "isNameObsolete": true
+    },
+    "ValidationRule__Deployment_Execution__c.Cannot_Reopen_If_Closed": {
+      "serverRevisionCounter": 540,
+      "lastRetrievedFromServer": 540,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Deployment_Execution_Record_Page": {
+      "serverRevisionCounter": 628,
+      "lastRetrievedFromServer": 628,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "Flow__Deployment_Task_Automation": {
+      "serverRevisionCounter": 647,
+      "lastRetrievedFromServer": 647,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    },
+    "Flow__DeploymentStep_OnCreate": {
+      "serverRevisionCounter": 683,
+      "lastRetrievedFromServer": 683,
+      "memberType": "Flow",
+      "isNameObsolete": true
+    },
+    "Flow__Deployment_Step_OnCreate": {
+      "serverRevisionCounter": 681,
+      "lastRetrievedFromServer": 681,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    }
+  }
+}
